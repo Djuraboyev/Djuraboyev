@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Mukhammadrizo Juraboyev
 
-<!--
-**Djuraboyev/Djuraboyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer focused on creating responsive, user-friendly web apps.  
+Currently working on **Chatico**, a real-time messaging app inspired by Telegram.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: React, TailwindCSS, TypeScript, Next.js
+- **Backend**: Node.js, Express, WebSocket
+- **Tools**: Git, Docker, Figma, MongoDB, PostgreSQL
+- **Learning**: Blockchain & Smart Contracts with Moralis
+
+## 💼 Projects
+
+### 🔹 Chatico  
+Real-time messaging app using WebSocket, React, TailwindCSS.  
+[🔗 View Project](https://github.com/Djuraboyev/chatico)
+
+### 🔹 CryptoCart (Test Task)  
+Crypto payment integration using Moralis API and smart endpoints.
+
+## 📫 Reach Me
+- Email: yourname@email.com  
+- LinkedIn: [linkedin.com/in/yourprofile](#)  
+- Portfolio: [yourportfolio.com](#)
+
+---
+
+⭐ Check out my pinned repositories for more projects!
