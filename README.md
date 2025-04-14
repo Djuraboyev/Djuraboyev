@@ -21,7 +21,7 @@ Crypto payment integration using Moralis API and smart endpoints.
 
 ## 📫 Reach Me
 - Email: muhammadrizozoraboev315@email.com  
-- LinkedIn: [linkedin.com/in/yourprofile](#)  
+- LinkedIn: linkedin.com/in/mukhammadrizo
 
 
 ⭐ Check out my pinned repositories for more projects!
