@@ -20,10 +20,8 @@ Real-time messaging app using WebSocket, React, TailwindCSS.
 Crypto payment integration using Moralis API and smart endpoints.
 
 ## 📫 Reach Me
-- Email: yourname@email.com  
+- Email: muhammadrizozoraboev315@email.com  
 - LinkedIn: [linkedin.com/in/yourprofile](#)  
-- Portfolio: [yourportfolio.com](#)
 
----
 
 ⭐ Check out my pinned repositories for more projects!
